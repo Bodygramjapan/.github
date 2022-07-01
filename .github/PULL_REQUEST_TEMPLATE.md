@@ -20,4 +20,4 @@ any design decisions you've made.
 # Checklist
 
 - [ ] Followed PR good practices from [go/good-pr](https://go/good-pr).
-- [ ] Updated API documentation (private or public). 
+- [ ] Updated documentation (private or public). 
