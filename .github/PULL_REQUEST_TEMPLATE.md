@@ -4,7 +4,7 @@ Write a comprehensive but concise summary of what the PR is about. Your summary
 should include things like:
 
 - What change your PR is making to the repository.
-- Context about why this change is being made.
+- Context about why this change is necessary.
 - What issue (e.g. task ID) your PR is related to.
 
 # Testing
