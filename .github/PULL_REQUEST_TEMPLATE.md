@@ -22,7 +22,7 @@ any design decisions you've made.
 
 # Checklist
 
-Please go though the checklist below.
+Please go through the checklist below.
 
 - [ ] Followed PR good practices from [go/good-pr](https://go/good-pr).
 - [ ] Updated documentation (private or public) if applicable.
